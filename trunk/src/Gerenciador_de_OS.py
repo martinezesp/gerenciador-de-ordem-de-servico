@@ -1,9 +1,8 @@
 #-*-coding:utf-8-*-
 '''
-Created on 12/01/2011
+Created on 31/07/2011
 
-@author: diogo
-IMPORTANTE: Necessario arquivos .glade na mesma pasta
+@author: Valença, João Luiz de Deus Holanda
 '''
 import pygtk
 import gobject
