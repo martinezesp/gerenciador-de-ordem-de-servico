@@ -1,6 +1,6 @@
 #-*-coding:utf-8-*-
 '''
-Created on 31/07/2011
+Created on 17/01/2011
 
 @author: Valença, João Luiz de Deus Holanda
 '''

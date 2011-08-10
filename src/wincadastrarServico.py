@@ -1,8 +1,8 @@
 #-*-coding:utf-8-*-
 '''
-Created on 31/07/2011
+Created on 13/01/2011
 
-@author: Valença, João Luiz de Deus Holanda
+@author: João Luiz
 '''
 import pygtk
 pygtk.require("2.0")

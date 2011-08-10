@@ -9,7 +9,7 @@ class BancoDados(object):
         self.__servidor = "localhost"
         self.__usuario = "root"
         self.__senha = "senhaCadastrada"
-        self.__db = "GerenciadorOS"
+        self.__db = "Nome da tabela"
         self.__conectado = False
     
     def recebeDadosConexao(self, serv, user, senha, datab):

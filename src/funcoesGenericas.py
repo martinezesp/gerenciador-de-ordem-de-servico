@@ -1,8 +1,8 @@
 #-*-coding:utf-8-*-
 '''
-Created on 31/07/2011
+Created on Jan 11, 2011
 
-@author: Valença, João Luiz de Deus Holanda
+@author: jpaborges
 '''
 from datetime import date, datetime
 import gtk
