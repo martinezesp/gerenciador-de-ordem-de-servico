@@ -1,3 +1,4 @@
+#-*-coding:utf-8-*-
 import MySQLdb #@UnresolvedImport
 from datetime import date, datetime
 import funcoesGenericas
@@ -6,10 +7,10 @@ class BancoDados(object):
     def __init__(self):
         self.__con = None
         self.__cursor = None
-        self.__servidor = "localhost"
+        self.__servidor = "localhost"#Caso o banco fique em outro computador colocar o endereço aqui
         self.__usuario = "root"
-        self.__senha = "senhaCadastrada"
-        self.__db = "Nome da tabela"
+        self.__senha = "senhaCadastrada" #Alterar
+        self.__db = "GerenciadorOS"
         self.__conectado = False
     
     def recebeDadosConexao(self, serv, user, senha, datab):
